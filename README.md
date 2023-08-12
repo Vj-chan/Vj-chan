@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Vj-chan
-- 👀 I’m interested in automation testing, data science, data analysis
-- 🌱 I’m currently learning Python programming, and automation testing by myself
+- 👀 I’m interested in Data science and Machine Learning
+- 🌱 I’m currently learning Data Science and machine learning from SCALER
 - 📫 How to reach me - vijaychandranm97@gmail.com
